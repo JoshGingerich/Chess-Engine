@@ -3,6 +3,11 @@ This engine was created for a university computer science course as an honors co
 
 The engine generates all possible future positions depending on the depth of search desired and uses alpha-beta pruning to intelligently reduce the total number of branches it has to evaluate. It then utilizes the minimax function to pick the best current move that maximizes its long term position.
 
+The following images highlights the information the engine processes after any given move.
+
+<img width="690" alt="Screen Shot 2020-02-22 at 7 44 22 PM" src="https://user-images.githubusercontent.com/61246608/75102160-d8e76280-55ac-11ea-8d5a-b4bc4dcbfdd4.png">
+
+
 
 The image below shows the user interface of the program. The computer automatically moves after the user inputs a move by dragging and dropping a piece.
 

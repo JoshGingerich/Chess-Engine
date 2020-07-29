@@ -11,7 +11,7 @@ The following image highlights the information the engine processes after any gi
 
 The image below shows the user interface of the program. The computer automatically moves after the user inputs a move by dragging and dropping a piece.
 
-<img width="653" alt="Screen Shot 2020-02-22 at 4 14 02 PM" src="https://user-images.githubusercontent.com/61246608/75100184-3325fa80-5590-11ea-8b30-01702c1aeff1.png">
+<img width="353" alt="Screen Shot 2020-02-22 at 4 14 02 PM" src="https://user-images.githubusercontent.com/61246608/75100184-3325fa80-5590-11ea-8b30-01702c1aeff1.png">
 
 
 As the image below shows, this engine was able to beat a 1600 rated Stockfish engine, which roughly indicates the rating level of this engine. For comparison, the average rating for a human who plays chess regularly would aproximately be in the 1200-1500 range.
